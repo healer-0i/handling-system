@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Artificial Intelligenc
 Act as if what you do makes a difference. It does. Cloud Artificial Intelligence Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Database
 Do what you love and the money will follow. DNS Routing A/B Testing UX Optimization Containerization Database Indexing API Gateway
 Cloud Load Balancing Data Science Framework Serverless IoT
+Success is how high you bounce when you hit bottom. Artificial Intelligence Serverless Framework Logging OAuth
