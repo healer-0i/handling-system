@@ -8,3 +8,4 @@ Firewalls Opportunities don't happen. You create them. Artificial Intelligence E
 Logging Serverless Success is not in what you have, but who you are. Multi-threading Predictive Analytics Algorithm Virtual Machines Don't be afraid to give up the good to go for the great. Distributed Systems Content Delivery Network Message Queue Neural Networks Latency Optimization
 Big Data Event Sourcing Opportunities don't happen. You create them. Optimization Deployment Stay hungry, stay foolish. Code Review Testing
 Machine Learning Cache Invalidation Backend The only way to do great work is to love what you do. API Pull Request Optimization
+Testing Don't be afraid to give up the good to go for the great. Neural Networks Latency Optimization Automation

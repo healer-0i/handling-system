@@ -12,3 +12,4 @@ Work hard in silence, let your success be your noise. Scalability A/B Testing Pr
 Cloud Functions Data Science Container Orchestration Big Data Replica Set
 Serverless Database Event-driven Architecture WebSockets Innovation distinguishes between a leader and a follower. Microservices API Neural Networks
 Success is how high you bounce when you hit bottom. Monitoring Agile Success doesn’t just find you. You have to go out and get it. Pull Request Cloud Functions Cache Invalidation Edge Computing I find that the harder I work, the more luck I seem to have. Big Data DNS Routing Firewalls
+Agile Load Balancing Sharding Deployment Python Lambda Functions Event Sourcing Cache Invalidation Kafka Replica Set
