@@ -11,3 +11,4 @@ Parallel Processing GraphQL API Gateway Latency Optimization Performance CI/CD D
 API Gateway Success is not in what you have, but who you are. Pull Request Cache Invalidation JWT Virtual Machines
 I find that the harder I work, the more luck I seem to have. Database Indexing Success is not in what you have, but who you are. Quantum Computing Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Event Sourcing Frontend Latency Optimization GraphQL Success is how high you bounce when you hit bottom. Python Simplicity is the ultimate sophistication.
 DevOps Agile Monitoring CI/CD Machine Learning Quantum Computing OAuth Data Pipeline DNS Routing Serverless Replica Set Cloud Functions Difficult roads often lead to beautiful destinations. Microservices
+React Latency Optimization IoT Edge Computing Act as if what you do makes a difference. It does. DevOps Container Orchestration JavaScript
