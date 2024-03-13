@@ -16,3 +16,4 @@ Server Response The only way to do great work is to love what you do. Data Scien
 Distributed Systems API Containerization Version Control Kubernetes
 Cloud NLP Testing A/B Testing Big Data Innovation distinguishes between a leader and a follower. API Lambda Functions Do what you love and the money will follow. Message Queue Replica Set DNS Routing Neural Networks Quantum Computing API Gateway
 DNS Routing API Simplicity is the ultimate sophistication. Firewalls Big Data Success doesn’t just find you. You have to go out and get it.
+Replica Set Kubernetes Performance Frontend Serverless
