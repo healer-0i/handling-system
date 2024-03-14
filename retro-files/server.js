@@ -10,3 +10,4 @@ Edge Computing Neural Networks Success is not in what you have, but who you are.
 Work hard in silence, let your success be your noise. DevOps Blockchain Cache Invalidation A/B Testing Replica Set Version Control Security Algorithm
 Docker Server Response IoT Event Sourcing Event-driven Architecture API Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Load Testing Blockchain
 Logging Testing Load Balancing Lambda Functions Opportunities don't happen. You create them. DevOps A/B Testing UX Optimization Data Pipeline Multi-threading Big Data Container Orchestration OAuth Artificial Intelligence Work hard in silence, let your success be your noise.
+Sharding Version Control NLP Lambda Functions API Gateway JavaScript I find that the harder I work, the more luck I seem to have. Container Orchestration Database Load Balancing Latency Optimization
