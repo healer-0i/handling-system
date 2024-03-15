@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Don't be afraid to give up
 RabbitMQ Microservices Predictive Analytics DNS Routing Agile Pull Request
 Database Indexing Framework Data Science DNS Routing GraphQL Data Pipeline Success is not in what you have, but who you are. Edge Computing
 Event-driven Architecture Logging Zero Downtime Deployment Lambda Functions Innovation distinguishes between a leader and a follower. Content Delivery Network Success is how high you bounce when you hit bottom. Frontend Database Testing Success is not in what you have, but who you are. JWT Server Response Opportunities don't happen. You create them.
+Monitoring Performance Lambda Functions Simplicity is the ultimate sophistication. Database Indexing Kubernetes Sharding Cloud Algorithm JavaScript Don't be afraid to give up the good to go for the great. Deployment Security
