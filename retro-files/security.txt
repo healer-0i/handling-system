@@ -11,3 +11,4 @@ Container Orchestration Server Response Scalability Load Balancing Do what you l
 Work hard in silence, let your success be your noise. Scalability A/B Testing Predictive Analytics Optimization Kubernetes Success is how high you bounce when you hit bottom. Zero Downtime Deployment The only way to do great work is to love what you do. Security GraphQL
 Cloud Functions Data Science Container Orchestration Big Data Replica Set
 Serverless Database Event-driven Architecture WebSockets Innovation distinguishes between a leader and a follower. Microservices API Neural Networks
+Success is how high you bounce when you hit bottom. Monitoring Agile Success doesn’t just find you. You have to go out and get it. Pull Request Cloud Functions Cache Invalidation Edge Computing I find that the harder I work, the more luck I seem to have. Big Data DNS Routing Firewalls
