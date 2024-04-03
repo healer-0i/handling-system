@@ -11,3 +11,4 @@ Monitoring Distributed Systems Blockchain Performance DNS Routing Event Sourcing
 JWT Zero Downtime Deployment Algorithm Difficult roads often lead to beautiful destinations. Distributed Systems Agile Database Indexing Message Queue
 Message Queue Frontend Sharding Python Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Load Balancing Kafka OAuth
 Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. JavaScript Backend Neural Networks Serverless Monitoring Event-driven Architecture Dream big and dare to fail. Act as if what you do makes a difference. It does. React NLP Firewalls Frontend Server Response
+Database Indexing Frontend Cloud NLP Simplicity is the ultimate sophistication. Python Load Balancing Do what you love and the money will follow.
