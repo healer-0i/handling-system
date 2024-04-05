@@ -10,3 +10,4 @@ Latency Optimization Success doesn’t just find you. You have to go out and get i
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. NLP If you can dream it, you can do it. Agile Testing Predictive Analytics Neural Networks
 Success is how high you bounce when you hit bottom. Kubernetes UX Optimization Security Parallel Processing Code Review DNS Routing API
 Automation Quantum Computing Distributed Systems Pull Request Event Sourcing Sharding Performance Latency Optimization Message Queue
+Distributed Systems Data Pipeline Scalability Don't be afraid to give up the good to go for the great. Python

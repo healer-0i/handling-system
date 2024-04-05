@@ -5,3 +5,4 @@ Content Delivery Network API Backend Replica Set Success usually comes to those 
 Parallel Processing Edge Computing Cloud Functions Deployment Dream big and dare to fail. Cloud Monitoring
 Success is not in what you have, but who you are. Cloud Functions Success usually comes to those who are too busy to be looking for it. Content Delivery Network Difficult roads often lead to beautiful destinations. UX Optimization Database Multi-threading The only way to do great work is to love what you do. Sharding JavaScript
 Firewalls Opportunities don't happen. You create them. Artificial Intelligence Event Sourcing Database
+Logging Serverless Success is not in what you have, but who you are. Multi-threading Predictive Analytics Algorithm Virtual Machines Don't be afraid to give up the good to go for the great. Distributed Systems Content Delivery Network Message Queue Neural Networks Latency Optimization
