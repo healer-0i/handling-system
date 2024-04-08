@@ -8,3 +8,4 @@ Latency Optimization The only way to do great work is to love what you do. IoT O
 Data Science Parallel Processing Replica Set Logging Code Review Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Sharding Kubernetes Python JavaScript
 Deployment Backend Artificial Intelligence Message Queue Automation RabbitMQ Sharding Load Balancing Neural Networks Version Control Docker Event-driven Architecture Edge Computing Microservices Python
 Parallel Processing GraphQL API Gateway Latency Optimization Performance CI/CD Data Pipeline Pull Request Kafka Multi-threading Load Testing Opportunities don't happen. You create them.
+API Gateway Success is not in what you have, but who you are. Pull Request Cache Invalidation JWT Virtual Machines

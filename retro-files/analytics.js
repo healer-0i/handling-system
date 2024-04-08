@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. NLP Success usually comes to
 Lambda Functions Python Great things never come from comfort zones. Algorithm Load Balancing Act as if what you do makes a difference. It does. Kubernetes If you can dream it, you can do it. Sharding Stay hungry, stay foolish.
 Success doesn’t just find you. You have to go out and get it. Parallel Processing Neural Networks JWT Code Review Load Balancing
 Automation Distributed Systems Success is not in what you have, but who you are. Scalability Firewalls GraphQL Data Pipeline Python Don't be afraid to give up the good to go for the great. NLP Event Sourcing Serverless
+JWT Zero Downtime Deployment UX Optimization Pull Request IoT Frontend Framework
