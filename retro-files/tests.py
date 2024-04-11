@@ -10,3 +10,4 @@ Kafka Act as if what you do makes a difference. It does. Containerization Succes
 Monitoring Distributed Systems Blockchain Performance DNS Routing Event Sourcing Pull Request Success is not in what you have, but who you are. Frontend Content Delivery Network
 JWT Zero Downtime Deployment Algorithm Difficult roads often lead to beautiful destinations. Distributed Systems Agile Database Indexing Message Queue
 Message Queue Frontend Sharding Python Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Load Balancing Kafka OAuth
+Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. JavaScript Backend Neural Networks Serverless Monitoring Event-driven Architecture Dream big and dare to fail. Act as if what you do makes a difference. It does. React NLP Firewalls Frontend Server Response
