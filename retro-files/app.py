@@ -8,3 +8,4 @@ Neural Networks Data Pipeline Monitoring Success doesn’t just find you. You have
 Sharding Performance Container Orchestration Cloud Functions Firewalls
 Success is how high you bounce when you hit bottom. API Latency Optimization Success usually comes to those who are too busy to be looking for it. Automation Virtual Machines UX Optimization
 Act as if what you do makes a difference. It does. Algorithm Cloud Data Science Cache Invalidation Dream big and dare to fail.
+Neural Networks Virtual Machines Kubernetes NLP If you can dream it, you can do it. Success is not in what you have, but who you are. Blockchain Dream big and dare to fail. Container Orchestration Cache Invalidation Deployment Load Balancing
