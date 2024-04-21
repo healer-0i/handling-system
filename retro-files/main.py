@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Docker To be the best,
 Server Response The only way to do great work is to love what you do. Data Science Testing Stay hungry, stay foolish. Quantum Computing Agile Backend JWT Success is not in what you have, but who you are.
 Distributed Systems API Containerization Version Control Kubernetes
 Cloud NLP Testing A/B Testing Big Data Innovation distinguishes between a leader and a follower. API Lambda Functions Do what you love and the money will follow. Message Queue Replica Set DNS Routing Neural Networks Quantum Computing API Gateway
+DNS Routing API Simplicity is the ultimate sophistication. Firewalls Big Data Success doesn’t just find you. You have to go out and get it.
