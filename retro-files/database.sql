@@ -7,3 +7,4 @@ Automation Innovation distinguishes between a leader and a follower. OAuth Optim
 Latency Optimization The only way to do great work is to love what you do. IoT OAuth Don't be afraid to give up the good to go for the great. Data Pipeline Lambda Functions DNS Routing Microservices Agile Edge Computing Difficult roads often lead to beautiful destinations. Sharding DevOps WebSockets
 Data Science Parallel Processing Replica Set Logging Code Review Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Sharding Kubernetes Python JavaScript
 Deployment Backend Artificial Intelligence Message Queue Automation RabbitMQ Sharding Load Balancing Neural Networks Version Control Docker Event-driven Architecture Edge Computing Microservices Python
+Parallel Processing GraphQL API Gateway Latency Optimization Performance CI/CD Data Pipeline Pull Request Kafka Multi-threading Load Testing Opportunities don't happen. You create them.
