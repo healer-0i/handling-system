@@ -5,3 +5,4 @@ JWT Success usually comes to those who are too busy to be looking for it. Load B
 Security CI/CD Agile Edge Computing Data Pipeline Latency Optimization To be the best, you must be able to handle the worst. UX Optimization Predictive Analytics Kafka JavaScript Event-driven Architecture Cloud The only way to do great work is to love what you do.
 The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Kubernetes UX Optimization Scalability Sharding Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. DNS Routing Monitoring Data Science JWT Latency Optimization JavaScript
 RabbitMQ Microservices Predictive Analytics DNS Routing Agile Pull Request
+Database Indexing Framework Data Science DNS Routing GraphQL Data Pipeline Success is not in what you have, but who you are. Edge Computing
