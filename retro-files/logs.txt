@@ -7,3 +7,4 @@ GraphQL Artificial Intelligence The only way to do great work is to love what yo
 API Do what you love and the money will follow. Frontend React Success is not in what you have, but who you are. Multi-threading Success doesn’t just find you. You have to go out and get it. Machine Learning Data Science Predictive Analytics A/B Testing Work hard in silence, let your success be your noise. Server Response
 Do what you love and the money will follow. Event-driven Architecture Act as if what you do makes a difference. It does. Firewalls Database
 Lambda Functions Dream big and dare to fail. WebSockets Sharding Frontend Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does.
+Monitoring Server Response Event Sourcing WebSockets Database Indexing Kafka Do what you love and the money will follow.
