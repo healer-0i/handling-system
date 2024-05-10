@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. Sharding R
 Kubernetes Version Control DevOps JavaScript Success is not in what you have, but who you are. Monitoring WebSockets
 Neural Networks Deployment Happiness is not something ready made. It comes from your own actions. Microservices Optimization Kubernetes RabbitMQ Success is not in what you have, but who you are.
 Automation Innovation distinguishes between a leader and a follower. OAuth Optimization Server Response Do what you love and the money will follow. Event Sourcing UX Optimization Code Review Quantum Computing Message Queue React A/B Testing
+Latency Optimization The only way to do great work is to love what you do. IoT OAuth Don't be afraid to give up the good to go for the great. Data Pipeline Lambda Functions DNS Routing Microservices Agile Edge Computing Difficult roads often lead to beautiful destinations. Sharding DevOps WebSockets

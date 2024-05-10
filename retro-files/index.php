@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. CI/CD RabbitMQ Event-drive
 OAuth Simplicity is the ultimate sophistication. Microservices RabbitMQ Difficult roads often lead to beautiful destinations.
 Success usually comes to those who are too busy to be looking for it. Kubernetes Parallel Processing CI/CD Serverless Version Control OAuth Quantum Computing
 If you can dream it, you can do it. Agile Scalability Load Testing Don't be afraid to give up the good to go for the great. JavaScript Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish.
+Database Indexing Deployment Success is not in what you have, but who you are. Cloud Functions Serverless API JWT The only way to do great work is to love what you do. Machine Learning Great things never come from comfort zones. Predictive Analytics Data Pipeline
