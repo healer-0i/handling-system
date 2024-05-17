@@ -9,3 +9,4 @@ Database To be the best, you must be able to handle the worst. Success doesn’t j
 Lambda Functions Kafka RabbitMQ Neural Networks Docker Latency Optimization API Gateway IoT Message Queue
 Success is how high you bounce when you hit bottom. NLP Success usually comes to those who are too busy to be looking for it. Predictive Analytics Success is not in what you have, but who you are. API Gateway GraphQL
 Lambda Functions Python Great things never come from comfort zones. Algorithm Load Balancing Act as if what you do makes a difference. It does. Kubernetes If you can dream it, you can do it. Sharding Stay hungry, stay foolish.
+Success doesn’t just find you. You have to go out and get it. Parallel Processing Neural Networks JWT Code Review Load Balancing
