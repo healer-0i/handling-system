@@ -12,3 +12,4 @@ GraphQL Pull Request IoT Agile RabbitMQ Backend
 Pull Request Scalability Load Testing DevOps Work hard in silence, let your success be your noise. Microservices Event Sourcing WebSockets
 Machine Learning Dream big and dare to fail. Zero Downtime Deployment Great things never come from comfort zones. Cache Invalidation Predictive Analytics
 Innovation distinguishes between a leader and a follower. Docker To be the best, you must be able to handle the worst. Optimization RabbitMQ
+Server Response The only way to do great work is to love what you do. Data Science Testing Stay hungry, stay foolish. Quantum Computing Agile Backend JWT Success is not in what you have, but who you are.
