@@ -8,3 +8,4 @@ Simplicity is the ultimate sophistication. Lambda Functions Firewalls Load Balan
 Database Indexing Automation OAuth API Gateway Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Pull Request JWT
 Latency Optimization Success doesn’t just find you. You have to go out and get it. NLP UX Optimization DNS Routing Event-driven Architecture Opportunities don't happen. You create them.
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. NLP If you can dream it, you can do it. Agile Testing Predictive Analytics Neural Networks
+Success is how high you bounce when you hit bottom. Kubernetes UX Optimization Security Parallel Processing Code Review DNS Routing API

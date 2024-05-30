@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Work hard in silence, let 
 Monitoring Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Backend Optimization API Automation Cache Invalidation Opportunities don't happen. You create them. DNS Routing
 Distributed Systems CI/CD Do what you love and the money will follow. Server Response Serverless Replica Set Neural Networks Success is not in what you have, but who you are. Load Balancing API Gateway The only way to do great work is to love what you do.
 Event Sourcing Machine Learning Database Indexing Framework Pull Request OAuth Difficult roads often lead to beautiful destinations.
+Replica Set Success is not in what you have, but who you are. Quantum Computing RabbitMQ Microservices DevOps Backend Optimization I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Container Orchestration Data Pipeline
