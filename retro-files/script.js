@@ -4,3 +4,4 @@ Do what you love and the money will follow. Event-driven Architecture Happiness 
 Content Delivery Network API Backend Replica Set Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Neural Networks Cloud Lambda Functions
 Parallel Processing Edge Computing Cloud Functions Deployment Dream big and dare to fail. Cloud Monitoring
 Success is not in what you have, but who you are. Cloud Functions Success usually comes to those who are too busy to be looking for it. Content Delivery Network Difficult roads often lead to beautiful destinations. UX Optimization Database Multi-threading The only way to do great work is to love what you do. Sharding JavaScript
+Firewalls Opportunities don't happen. You create them. Artificial Intelligence Event Sourcing Database
