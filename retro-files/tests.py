@@ -8,3 +8,4 @@ Sharding Success is how high you bounce when you hit bottom. Agile Multi-threadi
 Event Sourcing Agile JWT UX Optimization Virtual Machines
 Kafka Act as if what you do makes a difference. It does. Containerization Success is not in what you have, but who you are. JWT CI/CD Cache Invalidation Big Data To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. IoT
 Monitoring Distributed Systems Blockchain Performance DNS Routing Event Sourcing Pull Request Success is not in what you have, but who you are. Frontend Content Delivery Network
+JWT Zero Downtime Deployment Algorithm Difficult roads often lead to beautiful destinations. Distributed Systems Agile Database Indexing Message Queue
