@@ -7,3 +7,4 @@ Replica Set Latency Optimization Event-driven Architecture Backend Framework Web
 The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Neural Networks Parallel Processing Logging React Container Orchestration Database Indexing Don't be afraid to give up the good to go for the great. JavaScript Big Data Database
 Monitoring Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Backend Optimization API Automation Cache Invalidation Opportunities don't happen. You create them. DNS Routing
 Distributed Systems CI/CD Do what you love and the money will follow. Server Response Serverless Replica Set Neural Networks Success is not in what you have, but who you are. Load Balancing API Gateway The only way to do great work is to love what you do.
+Event Sourcing Machine Learning Database Indexing Framework Pull Request OAuth Difficult roads often lead to beautiful destinations.
