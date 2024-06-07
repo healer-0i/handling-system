@@ -10,3 +10,4 @@ Lambda Functions Pull Request Multi-threading Work hard in silence, let your suc
 Python Optimization Scalability Backend Success doesn’t just find you. You have to go out and get it.
 GraphQL Pull Request IoT Agile RabbitMQ Backend
 Pull Request Scalability Load Testing DevOps Work hard in silence, let your success be your noise. Microservices Event Sourcing WebSockets
+Machine Learning Dream big and dare to fail. Zero Downtime Deployment Great things never come from comfort zones. Cache Invalidation Predictive Analytics
