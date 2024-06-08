@@ -6,3 +6,4 @@ UX Optimization RabbitMQ Version Control Success usually comes to those who are 
 Sharding Multi-threading Algorithm API Microservices Work hard in silence, let your success be your noise. Data Pipeline IoT Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
 Version Control Great things never come from comfort zones. Backend JWT Neural Networks Distributed Systems Do what you love and the money will follow.
 Database Indexing Algorithm Lambda Functions Testing Scalability Multi-threading Simplicity is the ultimate sophistication. Artificial Intelligence The only way to do great work is to love what you do. Data Pipeline Do what you love and the money will follow. Event Sourcing
+Data Science Load Testing Python UX Optimization DNS Routing Version Control Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Code Review RabbitMQ Containerization Cloud Kafka Algorithm Cloud Functions
