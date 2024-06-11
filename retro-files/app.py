@@ -7,3 +7,4 @@ Backend WebSockets Container Orchestration I find that the harder I work, the mo
 Neural Networks Data Pipeline Monitoring Success doesn’t just find you. You have to go out and get it. Machine Learning API UX Optimization Version Control Performance Server Response Agile
 Sharding Performance Container Orchestration Cloud Functions Firewalls
 Success is how high you bounce when you hit bottom. API Latency Optimization Success usually comes to those who are too busy to be looking for it. Automation Virtual Machines UX Optimization
+Act as if what you do makes a difference. It does. Algorithm Cloud Data Science Cache Invalidation Dream big and dare to fail.
