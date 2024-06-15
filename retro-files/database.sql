@@ -2,3 +2,4 @@ Database Machine Learning Deployment Stay hungry, stay foolish. Automation Loggi
 To be the best, you must be able to handle the worst. Do what you love and the money will follow. Parallel Processing Scalability Edge Computing Serverless Agile Testing Zero Downtime Deployment CI/CD I find that the harder I work, the more luck I seem to have. Server Response The only way to do great work is to love what you do.
 Success usually comes to those who are too busy to be looking for it. Sharding Replica Set Lambda Functions Event Sourcing Pull Request
 Kubernetes Version Control DevOps JavaScript Success is not in what you have, but who you are. Monitoring WebSockets
+Neural Networks Deployment Happiness is not something ready made. It comes from your own actions. Microservices Optimization Kubernetes RabbitMQ Success is not in what you have, but who you are.
