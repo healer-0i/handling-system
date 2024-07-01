@@ -7,3 +7,4 @@ Frontend Microservices UX Optimization Innovation distinguishes between a leader
 Simplicity is the ultimate sophistication. Lambda Functions Firewalls Load Balancing Data Pipeline Cloud Functions Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Testing Neural Networks
 Database Indexing Automation OAuth API Gateway Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Pull Request JWT
 Latency Optimization Success doesn’t just find you. You have to go out and get it. NLP UX Optimization DNS Routing Event-driven Architecture Opportunities don't happen. You create them.
+Simplicity is the ultimate sophistication. Great things never come from comfort zones. NLP If you can dream it, you can do it. Agile Testing Predictive Analytics Neural Networks

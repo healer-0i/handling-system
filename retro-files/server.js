@@ -5,3 +5,4 @@ Database Indexing Success is not in what you have, but who you are. Edge Computi
 OAuth Scalability Happiness is not something ready made. It comes from your own actions. Database Frontend Big Data Opportunities don't happen. You create them. Success is not in what you have, but who you are. Logging
 API Gateway Virtual Machines Container Orchestration Big Data Success is how high you bounce when you hit bottom. Neural Networks
 Framework Neural Networks If you can dream it, you can do it. Monitoring RabbitMQ Frontend Distributed Systems Work hard in silence, let your success be your noise.
+Zero Downtime Deployment Deployment Event-driven Architecture Quantum Computing Event Sourcing Kafka Work hard in silence, let your success be your noise. Scalability Algorithm Virtual Machines Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Database Indexing IoT Dream big and dare to fail.
