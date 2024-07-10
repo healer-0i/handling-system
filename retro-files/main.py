@@ -8,3 +8,4 @@ Do what you love and the money will follow. API Gateway Multi-threading Happines
 Version Control Cloud Functions API Gateway UX Optimization Serverless Artificial Intelligence Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Security Testing Framework Server Response
 Lambda Functions Pull Request Multi-threading Work hard in silence, let your success be your noise. Agile
 Python Optimization Scalability Backend Success doesn’t just find you. You have to go out and get it.
+GraphQL Pull Request IoT Agile RabbitMQ Backend
