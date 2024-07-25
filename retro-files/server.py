@@ -8,3 +8,4 @@ Cloud Functions Multi-threading Don't be afraid to give up the good to go for th
 Distributed Systems API Server Response IoT Event Sourcing Kafka
 Great things never come from comfort zones. Data Pipeline Happiness is not something ready made. It comes from your own actions. Database Algorithm IoT Difficult roads often lead to beautiful destinations. Serverless Kubernetes Python Version Control
 Replica Set Act as if what you do makes a difference. It does. Container Orchestration Stay hungry, stay foolish. JWT
+Frontend NLP React Content Delivery Network Quantum Computing Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Optimization Great things never come from comfort zones. Lambda Functions Version Control
