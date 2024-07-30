@@ -2,3 +2,4 @@ Success doesn’t just find you. You have to go out and get it. Cloud Framework OA
 Data Pipeline Parallel Processing Serverless Load Balancing Python Agile Code Review RabbitMQ Server Response Database
 Quantum Computing A/B Testing Container Orchestration React Deployment Don't be afraid to give up the good to go for the great.
 Algorithm Performance Python Cloud Functions DNS Routing Machine Learning Scalability JavaScript WebSockets Deployment Dream big and dare to fail. Do what you love and the money will follow. Automation The only way to do great work is to love what you do. Testing
+Optimization Dream big and dare to fail. Version Control GraphQL Data Science Virtual Machines Content Delivery Network API Gateway To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Monitoring Innovation distinguishes between a leader and a follower. Kafka Artificial Intelligence
