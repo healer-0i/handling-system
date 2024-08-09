@@ -6,3 +6,4 @@ Automation Success is how high you bounce when you hit bottom. Security Microser
 Frontend Microservices UX Optimization Innovation distinguishes between a leader and a follower. Pull Request Kubernetes Data Science DevOps Algorithm Performance
 Simplicity is the ultimate sophistication. Lambda Functions Firewalls Load Balancing Data Pipeline Cloud Functions Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Testing Neural Networks
 Database Indexing Automation OAuth API Gateway Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Pull Request JWT
+Latency Optimization Success doesn’t just find you. You have to go out and get it. NLP UX Optimization DNS Routing Event-driven Architecture Opportunities don't happen. You create them.
