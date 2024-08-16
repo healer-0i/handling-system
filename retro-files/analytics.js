@@ -6,3 +6,4 @@ DevOps Edge Computing Success is not in what you have, but who you are. GraphQL 
 Performance OAuth IoT Deployment Opportunities don't happen. You create them. Lambda Functions NLP Success doesn’t just find you. You have to go out and get it. Containerization
 Message Queue Parallel Processing Database Indexing If you can dream it, you can do it. Backend
 Database To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. IoT Server Response Big Data Serverless JavaScript Difficult roads often lead to beautiful destinations. Load Balancing UX Optimization Neural Networks
+Lambda Functions Kafka RabbitMQ Neural Networks Docker Latency Optimization API Gateway IoT Message Queue

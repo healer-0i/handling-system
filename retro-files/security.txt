@@ -3,3 +3,4 @@ Database Indexing NLP Load Testing I find that the harder I work, the more luck 
 Work hard in silence, let your success be your noise. Backend Kafka Zero Downtime Deployment Scalability Code Review CI/CD Parallel Processing Virtual Machines Edge Computing Agile Quantum Computing Great things never come from comfort zones. Act as if what you do makes a difference. It does. Big Data
 Container Orchestration API OAuth A/B Testing Database The only way to do great work is to love what you do. Optimization Virtual Machines
 Backend Multi-threading Machine Learning Kubernetes Edge Computing Database Serverless Frontend Data Pipeline Pull Request Code Review Server Response WebSockets Neural Networks Message Queue
+Algorithm Multi-threading Cloud Functions A/B Testing UX Optimization API Gateway Message Queue Database Indexing Logging Sharding
