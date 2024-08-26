@@ -5,3 +5,4 @@ Deployment API Microservices I find that the harder I work, the more luck I seem
 Kafka Container Orchestration Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Monitoring Cloud Cache Invalidation WebSockets Neural Networks Great things never come from comfort zones. Virtual Machines GraphQL
 Backend WebSockets Container Orchestration I find that the harder I work, the more luck I seem to have. Security
 Neural Networks Data Pipeline Monitoring Success doesn’t just find you. You have to go out and get it. Machine Learning API UX Optimization Version Control Performance Server Response Agile
+Sharding Performance Container Orchestration Cloud Functions Firewalls
