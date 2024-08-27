@@ -6,3 +6,4 @@ Latency Optimization DNS Routing Success is not in what you have, but who you ar
 Testing JWT Work hard in silence, let your success be your noise. DevOps RabbitMQ Pull Request Cache Invalidation Deployment Cloud Functions NLP Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Logging Lambda Functions
 Cloud Functions Multi-threading Don't be afraid to give up the good to go for the great. Big Data Kafka Containerization Scalability Agile Predictive Analytics Blockchain Work hard in silence, let your success be your noise.
 Distributed Systems API Server Response IoT Event Sourcing Kafka
+Great things never come from comfort zones. Data Pipeline Happiness is not something ready made. It comes from your own actions. Database Algorithm IoT Difficult roads often lead to beautiful destinations. Serverless Kubernetes Python Version Control
