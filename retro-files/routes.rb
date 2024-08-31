@@ -5,3 +5,4 @@ NLP Event-driven Architecture Docker Message Queue Multi-threading Do what you l
 Great things never come from comfort zones. OAuth Message Queue Database Indexing Docker Big Data
 Code Review Database A/B Testing JWT Cloud Functions Sharding Distributed Systems
 Algorithm Machine Learning Innovation distinguishes between a leader and a follower. Load Testing RabbitMQ Scalability Success usually comes to those who are too busy to be looking for it. Containerization WebSockets NLP I find that the harder I work, the more luck I seem to have.
+Cache Invalidation API Gateway Container Orchestration Testing Latency Optimization Firewalls If you can dream it, you can do it. Act as if what you do makes a difference. It does.
