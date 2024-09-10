@@ -5,3 +5,4 @@ Frontend Server Response Cache Invalidation Opportunities don't happen. You crea
 Happiness is not something ready made. It comes from your own actions. Monitoring Success usually comes to those who are too busy to be looking for it. API Gateway IoT NLP Blockchain Load Balancing
 Event-driven Architecture Microservices Serverless Neural Networks Artificial Intelligence React Version Control Parallel Processing Automation Happiness is not something ready made. It comes from your own actions. Machine Learning Python WebSockets IoT Message Queue
 The only way to do great work is to love what you do. CI/CD RabbitMQ Event-driven Architecture Great things never come from comfort zones. GraphQL Do what you love and the money will follow. Stay hungry, stay foolish. Success is not in what you have, but who you are. Algorithm Security Pull Request
+OAuth Simplicity is the ultimate sophistication. Microservices RabbitMQ Difficult roads often lead to beautiful destinations.
