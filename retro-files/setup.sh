@@ -4,3 +4,4 @@ Server Response A/B Testing Database Act as if what you do makes a difference. I
 Sharding Dream big and dare to fail. Database Framework Deployment Python
 Automation Success is how high you bounce when you hit bottom. Security Microservices Database Quantum Computing Sharding Kubernetes React Big Data Success is not in what you have, but who you are. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower.
 Frontend Microservices UX Optimization Innovation distinguishes between a leader and a follower. Pull Request Kubernetes Data Science DevOps Algorithm Performance
+Simplicity is the ultimate sophistication. Lambda Functions Firewalls Load Balancing Data Pipeline Cloud Functions Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Testing Neural Networks
