@@ -3,3 +3,4 @@ WebSockets Machine Learning Monitoring Success usually comes to those who are to
 Testing Replica Set Stay hungry, stay foolish. Simplicity is the ultimate sophistication. GraphQL Latency Optimization Success is not in what you have, but who you are.
 Deployment API Microservices I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Security IoT WebSockets Do what you love and the money will follow.
 Kafka Container Orchestration Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Monitoring Cloud Cache Invalidation WebSockets Neural Networks Great things never come from comfort zones. Virtual Machines GraphQL
+Backend WebSockets Container Orchestration I find that the harder I work, the more luck I seem to have. Security
