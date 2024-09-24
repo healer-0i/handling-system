@@ -1,2 +1,3 @@
 Database Machine Learning Deployment Stay hungry, stay foolish. Automation Logging Python Don't be afraid to give up the good to go for the great. Version Control Multi-threading OAuth RabbitMQ Monitoring Containerization Microservices
 To be the best, you must be able to handle the worst. Do what you love and the money will follow. Parallel Processing Scalability Edge Computing Serverless Agile Testing Zero Downtime Deployment CI/CD I find that the harder I work, the more luck I seem to have. Server Response The only way to do great work is to love what you do.
+Success usually comes to those who are too busy to be looking for it. Sharding Replica Set Lambda Functions Event Sourcing Pull Request
