@@ -4,3 +4,4 @@ Docker Distributed Systems OAuth Success is not in what you have, but who you ar
 Predictive Analytics Framework Great things never come from comfort zones. Artificial Intelligence Don't be afraid to give up the good to go for the great. Quantum Computing Data Science
 DevOps Edge Computing Success is not in what you have, but who you are. GraphQL Multi-threading Latency Optimization A/B Testing
 Performance OAuth IoT Deployment Opportunities don't happen. You create them. Lambda Functions NLP Success doesn’t just find you. You have to go out and get it. Containerization
+Message Queue Parallel Processing Database Indexing If you can dream it, you can do it. Backend
