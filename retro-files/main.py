@@ -5,3 +5,4 @@ Do what you love and the money will follow. Success doesn’t just find you. You h
 Big Data Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Virtual Machines Scalability Performance Edge Computing Code Review Great things never come from comfort zones. Database Indexing NLP If you can dream it, you can do it.
 Work hard in silence, let your success be your noise. Deployment Framework Testing Success is not in what you have, but who you are.
 Do what you love and the money will follow. API Gateway Multi-threading Happiness is not something ready made. It comes from your own actions. JWT Predictive Analytics
+Version Control Cloud Functions API Gateway UX Optimization Serverless Artificial Intelligence Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Security Testing Framework Server Response
