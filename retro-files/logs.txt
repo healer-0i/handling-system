@@ -3,3 +3,4 @@ Logging Act as if what you do makes a difference. It does. Code Review API Conta
 Blockchain Agile React JavaScript Firewalls
 IoT UX Optimization Microservices Cloud Functions Neural Networks Kafka Blockchain Server Response Opportunities don't happen. You create them.
 Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Database Indexing Zero Downtime Deployment Content Delivery Network Do what you love and the money will follow. Event-driven Architecture Load Balancing Load Testing
+GraphQL Artificial Intelligence The only way to do great work is to love what you do. UX Optimization Firewalls
