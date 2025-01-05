@@ -1,1 +1,2 @@
 Data Science Firewalls Server Response Event-driven Architecture Opportunities don't happen. You create them. Containerization Load Balancing Serverless JavaScript JWT Cloud Container Orchestration Machine Learning Edge Computing
+Agile Firewalls Server Response JavaScript Great things never come from comfort zones. Message Queue UX Optimization Replica Set Event Sourcing Lambda Functions Don't be afraid to give up the good to go for the great.
